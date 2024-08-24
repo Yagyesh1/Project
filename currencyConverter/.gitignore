@@ -1,0 +1,6 @@
+# Ignore all .exe files
+*.exe
+
+# Ignore specific directories
+node_modules/
+*.log
